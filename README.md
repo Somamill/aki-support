@@ -1,5 +1,9 @@
 # aki. support
 
+[![Privacy: Open](https://img.shields.io/badge/Privacy-Open-26374D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Somamill/aki-support/blob/main/PRIVACY.md) [![Reddit: dot. apps](https://img.shields.io/badge/Reddit-dot.%20apps-AD3000?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/dot-app/)
+
+[Privacy](https://github.com/Somamill/aki-support/blob/main/PRIVACY.md) | [Reddit](https://www.reddit.com/user/dot-app/) | [Contact](#contact)
+
 Select **Scan Mac** and choose a folder. aki. shows files in that folder that use at least 100 MB of disk space. Use the folder icon or press Command-O to scan a different folder.
 
 Select the files you want to move and confirm **Move to Trash**. Open Trash in Finder to check or restore files. Disk space is freed when you empty Trash.
