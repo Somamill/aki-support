@@ -15,3 +15,5 @@ To get help, [open a support issue](https://github.com/Somamill/aki-support/issu
 ## Contact
 
 Questions, ideas, or spotted a bug? [Email Max](mailto:max@miller-max.com). Feedback is always welcome.
+
+[Support Max on Ko-fi](https://ko-fi.com/somamill)
